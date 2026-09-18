@@ -380,14 +380,6 @@ See [requirements.txt](requirements.txt) for full dependencies. Key packages:
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
----
-
-## 👨‍💻 Author
-
-**sanT** - Created this comprehensive retail sales forecasting platform.
-**Gmail** : santhoshsankar599@gmail.com
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please:
